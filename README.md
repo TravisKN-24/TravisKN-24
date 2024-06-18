@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Travis
+- 👀 I’m interested in programming & games
+- 🌱 I’m currently learning game development
+- 💞️ I’m looking to collaborate on 2D games
