@@ -17,4 +17,4 @@ Game Development Teams to build fun and engaging experiences.
 💻 Technologies & Tools
 Languages: Python, JavaScript, HTML, CSS, Object Pascal (Delphi)
 Tools: Visual Studio, Git, Delphi, Pygame, GitHub
-Other: Game development, Rapid Application Development (RAD), Cloud computing basics
+
